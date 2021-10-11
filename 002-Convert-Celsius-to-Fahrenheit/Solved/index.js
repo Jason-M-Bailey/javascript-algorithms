@@ -13,3 +13,7 @@ function convertToF(celsius) {
 // run 'node index.js' in your terminal
 // answer should be 86
 console.log(convertToF(30));
+
+// Code Explanation
+// Declare the fahrenheit variable.
+// Make sure the proper order of arithmetic operations is followed by using parenthesis (()) when needed.
