@@ -22,4 +22,4 @@ function disemvowel(str) {
 }
 
 // run 'node index.js' in your terminal
-console.log(disemvowel("This website is for losers LOL!"));
+console.log(`Ths wbst s fr lsrs LL! === ${disemvowel("This website is for losers LOL!")}`);
