@@ -5,4 +5,5 @@
 
 var commonElement = function(arrA, arrB) {
     // your code here
+    
 };

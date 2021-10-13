@@ -6,6 +6,7 @@
 
 function findLongestWordLength(str){
     // write code here
+    
 }
 
 // run 'node index.js' in your terminal to test the results
