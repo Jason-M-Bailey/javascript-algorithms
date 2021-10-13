@@ -20,4 +20,6 @@ console.log(`${reverseWords("double  spaces")} === elbuod  secaps`);
 
 console.log(`${reverseWords("a b c d")} === a b c d`);
 
-console.log(`${reverseWords("double  spaced  words")} === elbuod  decaps  sdrow`);
+console.log(
+  `${reverseWords("double  spaced  words")} === elbuod  decaps  sdrow`
+);
