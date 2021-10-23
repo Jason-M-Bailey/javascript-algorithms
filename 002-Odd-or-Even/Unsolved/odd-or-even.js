@@ -3,5 +3,8 @@
 
 var oddOrEven = function(num) {
     // your code here
-
 };
+
+
+console.log(`even === ${oddOrEven(12)}`);
+console.log(`odd === ${oddOrEven(13)}`);
