@@ -7,3 +7,5 @@ function reverseString(str) {
 // run 'node index.js' in your terminal
 // result should equal 'olleh'
 console.log(reverseString("hello"));
+
+console.log(reverseString("hello world"));
